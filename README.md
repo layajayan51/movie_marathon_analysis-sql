@@ -1,21 +1,20 @@
-# movie_maraton_analysis
-# 🎬 Movie Marathon Analysis
+# 🎬 Movie Marathon Analysis (CineFlex)
 
 ## Overview
-This project explores **user movie watch patterns** on the CineFlex streaming platform.  
-The analysis focuses on:
-- Number of movies watched per user  
-- Total duration of movies watched  
+This project analyzes **user watch patterns** for movies on the CineFlex streaming platform using MySQL.  
+The focus is on:
+- How many movies each user has watched  
+- The total duration of movies watched  
 
 ## Tech Stack
-- **Python**  
-- **Jupyter Notebook**  
-- **Pandas** for data manipulation and aggregation  
+- **MySQL** (queries for aggregation and filtering)
 
 ## Features
-- Clean dataset of user watch history  
-- Aggregated insights on viewing behavior  
-- Visualizations to highlight engagement trends  
+- User-level watch history analysis  
+- Aggregated totals of movies watched and durations  
+- Identification of viewing behavior patterns  
 
 ## Purpose
-A simple project to demonstrate **Python-based data analysis** in Jupyter Notebook, showcasing how streaming platforms can measure user activity and engagement.
+A simple project to practice **SQL-based data analysis** with MySQL, highlighting user engagement and movie consumption trends.
+
+
